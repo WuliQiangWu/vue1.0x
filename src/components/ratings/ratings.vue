@@ -1,6 +1,6 @@
 <template>
   <div>
-    this is a vue ratings
+    this is a vue template
   </div>
 </template>
 <script>
@@ -14,3 +14,6 @@
     components: {}
   };
 </script>
+<style>
+
+</style>
